@@ -1,0 +1,78 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Area_abs",
+            "request": "launch",
+            "mainClass": "p2.Area_abs",
+            "projectName": "java_assignment_eb94a5f0"
+        },
+        {
+            "type": "java",
+            "name": "Bankc",
+            "request": "launch",
+            "mainClass": "p2.Bankc",
+            "projectName": "java_assignment_eb94a5f0"
+        },
+        {
+            "type": "java",
+            "name": "Grade",
+            "request": "launch",
+            "mainClass": "p2.Grade",
+            "projectName": "java_assignment_eb94a5f0"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "p2.Student",
+            "projectName": "java_assignment_eb94a5f0"
+        },
+        {
+            "type": "java",
+            "name": "Subclass",
+            "request": "launch",
+            "mainClass": "p2.Subclass",
+            "projectName": "java_assignment_eb94a5f0"
+        },
+        {
+            "type": "java",
+            "name": "areasq_rec",
+            "request": "launch",
+            "mainClass": "p2.areasq_rec",
+            "projectName": "java_assignment_eb94a5f0"
+        },
+        {
+            "type": "java",
+            "name": "matchseq",
+            "request": "launch",
+            "mainClass": "p2.matchseq",
+            "projectName": "java_assignment_eb94a5f0"
+        },
+        {
+            "type": "java",
+            "name": "method",
+            "request": "launch",
+            "mainClass": "p2.method",
+            "projectName": "java_assignment_eb94a5f0"
+        },
+        {
+            "type": "java",
+            "name": "samestart",
+            "request": "launch",
+            "mainClass": "p2.samestart",
+            "projectName": "java_assignment_eb94a5f0"
+        }
+    ]
+}

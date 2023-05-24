@@ -1,23 +1,18 @@
 package p2;
 
-
-    
-// Shape class
 class Shape {
     public void printShape() {
         System.out.println("This is a shape.");
     }
 }
 
-// Rectangle class inheriting from Shape
 class Rectangle extends Shape {
-    @Override
+
     public void printShape() {
         System.out.println("This is a rectangular shape.");
     }
 }
 
-// Circle class inheriting from Shape
 class Circle extends Shape {
     @Override
     public void printShape() {
@@ -25,9 +20,8 @@ class Circle extends Shape {
     }
 }
 
-// Square class inheriting from Rectangle
 class Square extends Rectangle {
-    @Override
+    
     public void printShape() {
         System.out.println("Square is a rectangle.");
     }
